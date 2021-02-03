@@ -1,5 +1,7 @@
 # ContentSection
 
+IMPORTANT - NOTEBOOKS TO BE TRANSFERRED FROM OLD REPO TO THE MAIN REPO
+
 Progress till now - 
 1) KNN - Ready to Review.
 2) Kmeans - Ready to Review.
