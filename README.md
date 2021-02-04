@@ -3,7 +3,7 @@
 IMPORTANT - NOTEBOOKS TO BE TRANSFERRED FROM OLD REPO TO THE MAIN REPO
 
 Progress till now - 
-1) KNN - Ready to Review.
+1) KNN - Reviewed.
 2) Kmeans - Ready to Review.
 3) Decision Trees -  2 images left to be added.
 4) Random forest -  Ready to be reviewed.
