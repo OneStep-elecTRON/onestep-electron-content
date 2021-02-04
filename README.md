@@ -8,5 +8,5 @@ Progress till now -
 3) Decision Trees -  2 images left to be added.
 4) Random forest -  Ready to be reviewed.
 6) SVM - Ready to be reviewed.
-7) Linear reg - Not started.
-8) Logistic Reg -  Not started.
+7) Linear reg - Work in progress.
+8) Logistic Reg -  Work in progress.
