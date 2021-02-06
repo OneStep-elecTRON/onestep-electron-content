@@ -1,12 +1,16 @@
-# ContentSection
+# OneStepML - Content Repository
+---
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![Made with love at elecTRON](https://img.shields.io/badge/Made%20with%20%E2%99%A5%20at-elecTRON-red)   [![Maintenance](https://img.shields.io/badge/MAINTAINED%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)    [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) 
 
-IMPORTANT - NOTEBOOKS TO BE TRANSFERRED FROM OLD REPO TO THE MAIN REPO
+Welcome to OneStepML. 
+> "The one-step, open-source destination for all things ML."</br>
+> "A FREE platform for student developers, made by the student developers..."
 
-Progress till now - 
-1) KNN - Reviewed.
-2) Kmeans - Ready to be reviewed.
-3) Decision Trees -  Ready to be reviewed.
-4) Random forest -  Ready to be reviewed.
-6) SVM - Ready to be reviewed.
-7) Linear reg - Work in progress.
-8) Logistic Reg -  Work in progress.
+OneStepML is a community-led, open-sourced, e-learning platform for Machine Learning and Data Science, developed with :heart: at elecTRON. 
+
+#### The website is live [here](https://onestep-electron.github.io/).
+---
+## 👾 Build
+
+This is the content repository for OneStepML, where you can contribute towards the development of the educational content for OneStepML. 
+Please read our [Contribution Guide](./CONTRIBUTING.md) before submitting a Pull Request to the project.
