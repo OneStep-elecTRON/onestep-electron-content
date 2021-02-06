@@ -9,7 +9,9 @@ Let’s look at a scenario where linear regression might be useful: losing weigh
 
 The goal of regression analysis is to create a trend line based on the data you have gathered. This then allows you to determine whether other factors apart from the amount of calories consumed affect your weight, such as the number of hours you sleep, work pressure, level of stress, type of exercises you do etc. Before taking into account, we need to look at these factors and attributes and determine whether there is a correlation between them. Linear Regression can then be used to draw a trend line which can then be used to confirm or deny the relationship between attributes. If the test is done over a long time duration, extensive data can be collected and the result can be evaluated more accurately. <br/>
 
-*[image]*
+<p align="center">
+<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Linear%20Regression/Linearreg-1.png" alt="drawing" width="700"/>
+</p>
 
 The best fit line is considered to be the line for which the error between the predicted values and the observed values is minimum. It is also called the regression line and the errors are also known as residuals. <br/>
 
