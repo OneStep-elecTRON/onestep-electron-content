@@ -2,7 +2,7 @@
 We have seen many Classification algorithms so far and now it is time for us to explore KNN. K-Nearest neighnors or KNN is a supervised learning technique which can be used for both classification and regression type problems. But mostly, KNNs are used for classification. Compared to others, KNN is very simple to understand and implement. Let's try to understand it with help of some examples and diagrams.</br>
 
 <p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/KNN/Knn-1.png" alt="drawing" width="700"/>
+<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/KNN/Knn-1.png" alt="drawing" width="700"/>
 </p>
 
 In the above diagram we have 2 classes, Yes and No. Let's assume that you want to get into a college and we have the data of your TOEFL scores, your GRE scores and College CGPA. We have a black point which is our target point. In KNN, we calculate the distance between our target point and the 'k' points that are close to it. So in the above case, we take the value of K as 3, when we apply KNN, we calculate the Euclidean distance between our target point and all the other points in the plane and the 3 points that are closest to our target points will determine our output. Maybe you have great TOEFL, GRE scores along with a good CGPA and hence in the abve case the 3 closest points to the target point fall in the class 'Yes'. Hence the model will give the output 'Yes'. You can also end up with the case where you have 2 points of 'Yes' class and 1 point of 'No' class but in all the cases the majority votes will win, this is an important point to remember. KNN is said to be a lazy learning algorithm and the outputs are found at time of execution. </br>
