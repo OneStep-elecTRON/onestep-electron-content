@@ -10,9 +10,22 @@ Welcome to OneStepML.
 
 OneStepML is a community-led, open-sourced, e-learning platform for Machine Learning and Data Science, developed with :heart: at elecTRON. 
 
-#### The website is live [here](https://onestep-electron.github.io/).
+## 🧐 Why OneStep-elecTRON?
 ---
+
+- [x] **Absolutely FREE**: Yes. OneStepML is a non-profit organization with one aim— to put an end to the culture of putting education behind paywalls! 
+- [x] **Machine Learning Tracks**: Learn machine learning from basics to advanced, with hand-crafted and trusted content.
+- [x] **Python Learning Tracks**: New to machine learning? Start by getting familiar with __Python__ first with our Python Crash Course!
+
+- [x] **No Sign-In Required**: Students can learn without logging in too! We do not share/sell your data. You only need to register (optional) to keep track of your progress and the quizes you have solved. 
+- [x] **Live Code Execution**: Execute you Python code right away inside an integrated code editor. You don't need powerful PCs to learn ML!
+- [x] **Interactive Quizzes**: Track your learning with interactive quizzes, and get your answers right away.
+- [x] **Run on Colab Integration**: Practice and learn via hands-on exercises/tutorials in Google Colab Notebooks.
+
+#### The website is live [here](https://onestep-electron.github.io/).
+
 ## 👾 Build
+---
 
 This is the content repository for OneStepML, where you can contribute towards the development of the educational content for OneStepML. 
 Please read our [Contribution Guide](./CONTRIBUTING.md) before submitting a Pull Request to the project.
