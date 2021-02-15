@@ -3,6 +3,7 @@ id: python-crash-course-introduction
 title: Welcome to Python Crash Course
 sidebar_label: Introduction
 slug: /python-crash-course
+custom_edit_url: https://github.com/OneStep-elecTRON/onestep-electron-content
 ---
 
 Welcome to part-3 of the Python Crash Course series. This is the last section in this course, and we are super glad that you have made it this far! 
