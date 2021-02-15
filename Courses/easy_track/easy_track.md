@@ -3,6 +3,7 @@ id: easy-track-intro
 title: Introduction to Easy Track
 sidebar_label: Introduction
 slug: '/EasyTrack/'
+custom_edit_url: https://github.com/OneStep-elecTRON/onestep-electron-content
 ---
 
 

@@ -3,6 +3,7 @@ id: python-crash-course-introduction
 title: Welcome to Python Crash Course
 sidebar_label: Introduction
 slug: /python-crash-course
+custom_edit_url: https://github.com/OneStep-elecTRON/onestep-electron-content
 ---
 
 Welcome to part-2 of the Python Crash Course series. In this tutorial, we will learn about various Python operators— arithmetic, comparison and logical operators, along with conditional statements and loops. 
