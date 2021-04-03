@@ -17,19 +17,19 @@ We use logistic regression for classification problems and it is known to give g
 Noww that we have some good knowledge about how the whole algorithm works, let's take a look at the pen and paper way of solving logistic regression before we go on to code some models. </br>
 
 <p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-1.png" alt="drawing" width="700"/>
+<img src="https://github.com/AM1CODES/onestep-electron-content/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-1.png" alt="drawing" width="700"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-2.png" alt="drawing" width="700"/>
+<img src="https://github.com/AM1CODES/onestep-electron-content/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-2.png" alt="drawing" width="700"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-3.png" alt="drawing" width="700"/>
+<img src="https://github.com/AM1CODES/onestep-electron-content/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-3.png" alt="drawing" width="700"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-4.png" alt="drawing" width="700"/>
+<img src="https://github.com/AM1CODES/onestep-electron-content/blob/main/Courses/easy_track/Logistic%20Regression/logregmath-4.png" alt="drawing" width="700"/>
 </p>
 
 
