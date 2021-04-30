@@ -1,5 +1,24 @@
 # Linear Regression
 
+The term "regression" means "coming back to the average". <br> Regression Analysis is a mathematical measure to determine the average relationship between two or more variables in terms of original units of data. In regression analysis, we have two types of variables: Dependent variable (target variable/output) and independent variable (predictor variable/input). The variable whose value is to be predicted is called dependent variable whereas the variable which is used for prediction is called independent variable. <br>
+Simple linear regression is defined as Y=aX+b, where , Y is dependent variable and X is independent variable. a and b are coefficients which we'll understand below. 
+<p align="center">
+<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Linear%20Regression/regress.jpg" alt="drawing" width="700"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Linear Regression is the most famous machine learning algorithm and its a statistical method to carry out redictive analysis. But before we jump into understanding Linear regression, lets understand what's regression. <br/>
 
 Majority of the machine learning algorithms fall under the supervised learning category. It is the process where an algorithm is used to predict a result based on the previously entered values and the results generated from them. Suppose we have an input variable ‘x’ and an output variable ‘y’ where y is a function of x (y=f{x}). Supervised learning reads the value of entered variable ‘x’ and the resulting variable ‘y’ so that it can use those results to later predict a highly accurate output data of ‘y’ from the entered value of ‘x’. A regression problem is when the resulting variable contains a real or a continuous value. It tries to draw the line of best fit from the data gathered from a number of points.</br>
