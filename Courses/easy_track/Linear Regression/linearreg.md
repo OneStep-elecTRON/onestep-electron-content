@@ -3,7 +3,7 @@
 The term "regression" means "coming back to the average". <br> Regression Analysis is a mathematical measure to determine the average relationship between two or more variables in terms of original units of data. In regression analysis, we have two types of variables: Dependent variable (target variable/output) and independent variable (predictor variable/input). The variable whose value is to be predicted is called dependent variable whereas the variable which is used for prediction is called independent variable. <br>
 Simple linear regression is defined as Y=aX+b, where , Y is dependent variable and X is independent variable. a and b are coefficients which we'll understand below. 
 <p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Linear%20Regression/regress.jpg" alt="drawing" width="700"/>
+<img src="https://github.com/Anjali001/onestep-electron-content/Courses/easy_track/Linear%20Regression/regress.jpg" alt="drawing" width="700"/>
 </p>
 
 
