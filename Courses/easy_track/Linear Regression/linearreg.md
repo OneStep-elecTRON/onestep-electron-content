@@ -13,32 +13,10 @@ The straight line (red color) is called best fit line or regression line. It is 
 The above explanation was for a simple linear regression. But in real life, we have a large number of independent variables which are used to predict value of the dependent variable. 
 Mathematically, 
 <img src="https://github.com/Anjali001/onestep-electron-content/blob/main/Courses/easy_track/Linear%20Regression/LR_Formula.bmp" alt="drawing" width="700"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-Linear Regression is the most famous machine learning algorithm and its a statistical method to carry out redictive analysis. But before we jump into understanding Linear regression, lets understand what's regression. <br/>
-
-Majority of the machine learning algorithms fall under the supervised learning category. It is the process where an algorithm is used to predict a result based on the previously entered values and the results generated from them. Suppose we have an input variable ‘x’ and an output variable ‘y’ where y is a function of x (y=f{x}). Supervised learning reads the value of entered variable ‘x’ and the resulting variable ‘y’ so that it can use those results to later predict a highly accurate output data of ‘y’ from the entered value of ‘x’. A regression problem is when the resulting variable contains a real or a continuous value. It tries to draw the line of best fit from the data gathered from a number of points.</br>
-
-Now we know a gist of what's going on in Linear Regression, lets quickly understand its working.
-Let’s look at a scenario where linear regression might be useful: losing weight. Let us consider that there’s a connection between how many calories you take in and how much you weigh; regression analysis can help you understand that connection. Regression analysis will provide you with a relation which can be visualized into a graph in order to make predictions about your data. For example, if you’ve been putting on weight over the last few years, it can predict how much you’ll weigh in the next ten years if you continue to consume the same amount of calories and burn them at the same rate.<br/>
-
-The goal of regression analysis is to create a trend line based on the data you have gathered. This then allows you to determine whether other factors apart from the amount of calories consumed affect your weight, such as the number of hours you sleep, work pressure, level of stress, type of exercises you do etc. Before taking into account, we need to look at these factors and attributes and determine whether there is a correlation between them. Linear Regression can then be used to draw a trend line which can then be used to confirm or deny the relationship between attributes. If the test is done over a long time duration, extensive data can be collected and the result can be evaluated more accurately. <br/>
-
-<p align="center">
-<img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/Linear%20Regression/Linearreg-1.png" alt="drawing" width="700"/>
-</p>
-
-The best fit line is considered to be the line for which the error between the predicted values and the observed values is minimum. It is also called the regression line and the errors are also known as residuals. <br/>
-
-There are some technical terminologies that would be ver necessary to get the in-depth knowledge about the algorithm but for now, we have understood how exactly the algorithm works and we will be taking a look at the other things in the other tracks where we also learn how  to optimize all the algorithms. <br/>
+<br>
+<br>
+Check out how to do linear regression from scratch here: https://colab.research.google.com/drive/1-q7YKL852EHdiNheQSXATmfBynjqT_7Y?usp=sharing
+<br>
+To see how to do linear regression using Sklearn library, see my article at https://medium.com/analytics-vidhya/linear-regression-using-scikit-learn-in-python-5703be8e4f38
+<br>
+Follow this link to just see the code for doing Linear Regression using Sklearn Library: https://github.com/Anjali001/GRIP_Tasks/blob/master/Linear_Regression.ipynb
