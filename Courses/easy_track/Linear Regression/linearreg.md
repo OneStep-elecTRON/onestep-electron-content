@@ -15,8 +15,7 @@ Mathematically,
 <img src="https://github.com/Anjali001/onestep-electron-content/blob/main/Courses/easy_track/Linear%20Regression/LR_Formula.bmp" alt="drawing" width="700"/>
 <br>
 <br>
-Check out how to do linear regression from scratch here: https://colab.research.google.com/drive/1-q7YKL852EHdiNheQSXATmfBynjqT_7Y?usp=sharing
+Want to know how to implement linear regression algorithm from Scratch, Follow this link: https://colab.research.google.com/drive/1-q7YKL852EHdiNheQSXATmfBynjqT_7Y?usp=sharing
 <br>
-To see how to do linear regression using Sklearn library, see my article at https://medium.com/analytics-vidhya/linear-regression-using-scikit-learn-in-python-5703be8e4f38
+Check this link to see how to use linear regression algorithm using Sklearn Library: https://github.com/Anjali001/GRIP_Tasks/blob/master/Linear_Regression.ipynb
 <br>
-Follow this link to just see the code for doing Linear Regression using Sklearn Library: https://github.com/Anjali001/GRIP_Tasks/blob/master/Linear_Regression.ipynb
