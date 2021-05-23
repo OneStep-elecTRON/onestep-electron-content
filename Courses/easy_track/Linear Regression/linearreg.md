@@ -39,3 +39,10 @@ Want to know how to implement linear regression algorithm from Scratch, Follow t
 
 Check this link to see how to use linear regression algorithm using Sklearn Library: https://github.com/Anjali001/GRIP_Tasks/blob/master/Linear_Regression.ipynb
 <br/>
+
+#### References:<br/>
+
+1. Basic Econometrics by Damodar N. Gujrati
+2. https://www.geeksforgeeks.org/linear-regression-python-implementation/
+3. https://machinelearningmastery.com/linear-regression-for-machine- learning/
+4. Article: https://medium.com/analytics-vidhya/linear-regression-using-scikit-learn-in-python-5703be8e4f38
