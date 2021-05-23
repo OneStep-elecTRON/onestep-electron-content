@@ -13,7 +13,7 @@ The straight line (red color) is called best fit line or regression line. It is 
 The above explanation was for a simple linear regression. But in real life, we have a large number of independent variables which are used to predict value of the dependent variable. 
 Mathematically, 
 <p align="center">
-<img src="https://github.com/Anjali001/onestep-electron-content/blob/main/Courses/easy_track/Linear%20Regression/LR_Formula.bmp" alt="drawing" width="700"/>
+<img src="https://github.com/Anjali001/onestep-electron-content/blob/main/Courses/easy_track/Linear%20Regression/LR_formulae.jpg" alt="drawing" width="700"/>
  </p>
 <br/>
 <br/>
