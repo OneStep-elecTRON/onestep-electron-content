@@ -1,5 +1,15 @@
 # Linear Regression
 
+There are mainly three types of algorithms in Machine Learning namely: Supervised, Unsupervised and Reinforcement. Since, Linear Regression is a Supervised Machine Learning algorithm , we'll focus on that for this topic. <br/>
+
+Supervised Machine Learning means that the algorithm is first trained on the labelled dataset (train data) to form a model. After this, the machine is provided with a new set of data (test data) to the acquired knowledge to predict the outcomes. For instance, when all of us were babies, our parents told us what is a cow, rabbit, snake, squirrel etc.. (Trained us). After that, whenever we saw an animal (test data), we were able to classify it depending on our knowledge. This is Supervised Learning. <br/>
+
+Supervised ML algorithms are of 2 types: <br/>
+1. Classification: In this output variable is a category (Categorical target variable) <br/>
+2. Regression: In this output variable is a value (Continuous target variable) <br/>
+
+Let's talk about regression now. <br/>
+
 The term "regression" means "coming back to the average". <br/> 
 
 Regression Analysis is a mathematical measure to determine the average relationship between two or more variables in terms of original units of data. In regression analysis, we have two types of variables: Dependent variable (target/output variable) and independent variable (predictor/input variable). The variable whose value is to be predicted is called dependent variable whereas the variable which is used for prediction is called independent variable. <br/>
@@ -21,7 +31,11 @@ Mathematically,
 <img src="https://github.com/Anjali001/onestep-electron-content/blob/main/Courses/easy_track/Linear%20Regression/LR_formulae.jpg" alt="drawing" width="700"/>
  </p>
 <br/>
+
+Now, we have learnt the mathematical statistics part behind linear regression, let's move forward to learn how this is used in Machine Learning. First go through linear regression algorithm from scratch to learn, how linear regression works behind the scene. Once you've completed it, move on to the second link provided below to see how you can simply import linear regression from Sklearn library and use it in your data with 2-3 simple lines of code. <br/>
+ 
 Want to know how to implement linear regression algorithm from Scratch, Follow this link: https://colab.research.google.com/drive/1-q7YKL852EHdiNheQSXATmfBynjqT_7Y?usp=sharing
 <br/>
+
 Check this link to see how to use linear regression algorithm using Sklearn Library: https://github.com/Anjali001/GRIP_Tasks/blob/master/Linear_Regression.ipynb
 <br/>
