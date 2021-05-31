@@ -18,7 +18,7 @@ SVMs are preffered over some other classification models because they generate v
 
 With this we come to an end to our SVM theory. Let's quickly revise a few points:
 
-- SVM are used mostly for classification type priblems.
+- SVM are used mostly for classification type problems.
 - The idea is to create a hyperplane that divides two classes of the data and use only few points which we call support vectors in order to create this hyperplane.
 - The goal is to minimize the number of points between the margin and the hyperplane and also to maximize the distance between the hyperplane and the margin.
 - The other points apart from support vectors will not affect the hyperplane.
