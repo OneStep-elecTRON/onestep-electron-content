@@ -1,4 +1,4 @@
-Seaborn - Seaborn is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs (like mapping a color to a variable or using faceting).
+[Seaborn](http://seaborn.pydata.org/) is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs (like mapping a color to a variable or using faceting).
 
 :::tip
 

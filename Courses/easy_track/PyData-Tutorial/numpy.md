@@ -1,5 +1,5 @@
-NumPy - NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. It was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.It stands for
-Numerical Python.
+[NumPy](https://numpy.org/) is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. It was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely. It stands for
+**Numerical Python**.
 
 :::tip
 
