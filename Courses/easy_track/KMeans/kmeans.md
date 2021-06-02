@@ -1,8 +1,8 @@
 # K-Means 
 
-K-Means clustering or simply clustering is an unsupervised learning technique. Unlike all the other techniques, which all came under supervised learning techniques, Kmeans is considered as unsupervised as there is no solid ground truth to compare our output with. It can only help us to determine the structure of our data and find smaller groups of data within our main data set. </br>
+K-means clustering or simply clustering is an unsupervised learning technique. Unlike all the other techniques, which all came under supervised learning techniques, K-means is considered as unsupervised as there is no solid ground truth to compare our output with. It can only help us to determine the structure of our data and find smaller groups of data within our main data set. </br>
 
-The main goal is to divide our data into sub categories or clusters or we can say  K pre-defined clusters. But how exactly do we create these clusters? Kmeans checks the similarities between different points and groups them in clusters. Remember the Euclidean distance that we discussed in KNN? We apply the same concept here as well in order to form our clusters. Let's understand the working using an example.</br>
+The main goal is to divide our data into sub categories or clusters or we can say  K pre-defined clusters. But how exactly do we create these clusters? K-means checks the similarities between different points and groups them in clusters. Remember the Euclidean distance that we discussed in KNN? We apply the same concept here as well in order to form our clusters. Let's understand the working with an example.</br>
 
 <p align="center">
 <img src="https://github.com/OneStep-elecTRON/ContentSection/blob/main/Courses/easy_track/KMeans/KMeans-1.png" alt="drawing" width="700"/>
@@ -17,10 +17,10 @@ Let's say we are given a table with heights and weights of students and we need 
 As we can see it has the least distance from K2 so it will become part of that cluster. Once we have found the cluster it belongs to , we need to recalculate the centroid for that cluster. This will give us a new centroid and whenever a new point enters, we will be using this new centroid to calculate the euclidean distance and this process goes on untill all the elements become part of some cluster. No point can be part of 2 clusters at the same time.</br>
 
 
-But again, how do we know what is the K value which is nothing but the optimal amount of Clusters required? For that we have something called the elbow method which helps us in selecting the optimal number of clusters. The idea is very simple. We need to calculate the sum of squared errors or SSE for each value of K in a given range. We will then plot a graph. It should look like an arm and the point where there is sudden dip in the plot or an 'elbow' is present, we take that K value to be the optimal K value. As we increase K value, the SSE tends to 0. So the goal is to choose a small value of K which also gives us a small SSE. We have already implemented this for you in the notebook below so you may go through them to understand it's implementation.</br>
+But again, how do we know what is the *K* value which is nothing but the optimal amount of Clusters required? For that we have something called the elbow method which helps us in selecting the optimal number of clusters. The idea is very simple. We need to calculate the sum of squared errors or SSE for each value of K in a given range. We will then plot a graph. It should look like an arm and the point where there is sudden dip in the plot or an 'elbow' is present, we take that K value to be the optimal K value. As we increase K value, the SSE tends to 0. So the goal is to choose a small value of K which also gives us a small SSE. We have already implemented this for you in the notebook below so you may go through them to understand it's implementation.</br>
 
 Let's quickly summarise what we just learnt:
-- KMeans is a unsupervised learning technique.
+- K-Means is a unsupervised learning technique.
 - When we are trying to cluster our data points, we first set some random number of clusters or some random K value. And assign some centroids.
 - Whenever we get a new point, we calculate the Euclidean distance between these points and the one that gives least euclidean distance, the new point will belong to that cluster.
 - We then need to determine the new centroid of the cluster in which we add our target point. 
